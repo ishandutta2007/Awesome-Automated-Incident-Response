@@ -69,7 +69,7 @@ The automated incident response and SOAR market was valued at **~$2.8 Billion in
 
 ## 🔓 Open-Source GitHub Projects 🛠️
 
-*Sorted by GitHub Stars Count (Descending)* 🌟
+*Sorted by GitHub_Stars_Count (Descending)* 🌟
 
 - **[Netdata](https://github.com/netdata/netdata)** [![Stars](https://img.shields.io/github/stars/netdata/netdata?style=social&color=white)](https://github.com/netdata/netdata/stargazers) ⚡  
   **Real-time infrastructure monitoring with 1-second granularity**, GPL-3.0 licensed. Collects thousands of metrics per server with a powerful alerting engine. Sub-second collection and pre-built alarms let you catch anomalies before they snowball. Hundreds of pre-configured alarms for MySQL, Nginx, and system metrics. Notification webhooks target different channels per alarm role. Zero-config installation with extremely low resource footprint. 📊
@@ -112,7 +112,7 @@ Contributions are welcome! Follow these steps to submit new automated incident r
 
 1. 🍴 **Fork** the repository on GitHub.
 2. 📝 **Add/edit** entries in `README.md` maintaining table/list structure and formatting.
-3. 🔗 Include project title, official website/GitHub link, exact Stars Count, license, and concise description.
+3. 🔗 Include project title, official website/GitHub link, exact Stars_Count, license, and concise description.
 4. 🚀 Submit a **Pull Request** with a descriptive summary of your changes.
 
 ---
